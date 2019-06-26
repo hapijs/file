@@ -1,7 +1,7 @@
 {
     "name": "@hapi/file",
     "description": "General purpose file utilities",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "repository": "git://github.com/hapijs/file",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
