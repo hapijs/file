@@ -5,17 +5,17 @@
     "repository": "git://github.com/hapijs/file",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
+    "files": [
+        "lib"
+    ],
     "keywords": [
         "utilities",
         "file"
     ],
-    "files": [
-        "lib"
-    ],
     "dependencies": {},
     "devDependencies": {
-        "@hapi/code": "6.x.x",
-        "@hapi/lab": "20.x.x"
+        "@hapi/code": "8.x.x",
+        "@hapi/lab": "22.x.x"
     },
     "scripts": {
         "test": "lab -a @hapi/code -t 100 -L -Y",
