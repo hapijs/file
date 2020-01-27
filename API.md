@@ -1,3 +1,4 @@
+
 ## Methods
 
 ### `uniqueFilename(path, extension)`
