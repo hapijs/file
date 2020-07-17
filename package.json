@@ -1,8 +1,11 @@
 {
-    "name": "@hapi/file",
+    "name": "@commercial/file",
     "description": "General purpose file utilities",
     "version": "2.0.0",
     "repository": "git://github.com/hapijs/file",
+    "engines": {
+        "node": ">=12.0.0"
+    },
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -21,5 +24,5 @@
         "test": "lab -a @hapi/code -t 100 -L -Y",
         "test-cov-html": "lab -a @hapi/code -t 100 -L -r html -o coverage.html"
     },
-    "license": "BSD-3-Clause"
+    "license": "SEE LICENSE IN LICENSE.md"
 }

@@ -1,3 +1,3 @@
-# @hapi/file
+# @commercial/file
 
 General purpose file utilities.
