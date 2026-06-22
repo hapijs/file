@@ -2,7 +2,7 @@
   "name": "@hapi/file",
   "description": "General purpose file utilities",
   "version": "3.0.0",
-  "repository": "git://github.com/hapijs/file",
+  "repository": "https://github.com/hapijs/file",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
